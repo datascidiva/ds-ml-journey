@@ -1,2 +1,2 @@
-# ds-ml-jpurney
+# ds-ml-journey
 Daily milestones
